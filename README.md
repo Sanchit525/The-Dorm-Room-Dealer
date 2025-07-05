@@ -1,5 +1,4 @@
-# drd
-This repository is the implementation of the course project CS253.
+# Dorm-Room-Dealer
 # Requirements
 ```python
 pip install django
